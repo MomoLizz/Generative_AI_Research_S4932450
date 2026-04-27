@@ -1,2 +1,3 @@
 # Generative_AI_Research_S4932450
 Generative_AI_Research_S4932450, for REIT6811 applied class 8
+The Literature Review folder contains journal articles, conference papers, books, and newspaper articles. The Quantitative Analysis folder stores survey data, survey questions, Python scripts, CSV/Excel files, and analysis reports. The Qualitative Analysis folder includes interview transcripts, protocols, consent forms, analysis reports, and data visualisations. The Drafts and Reports folder contains research proposals, conference paper drafts, and final reports. The Additional Materials folder stores information sheets, photos, and other supporting media files.
